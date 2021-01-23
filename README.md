@@ -3,7 +3,7 @@ A web application that provides the user with information about a inquired desti
 
 ## Link to Deployed Application :link:
 
-_https://joeseff6.github.io/Suitcase/_
+_https://deadstockskeleton.github.io/Suitcase/_
 
 ## Project Description
 
